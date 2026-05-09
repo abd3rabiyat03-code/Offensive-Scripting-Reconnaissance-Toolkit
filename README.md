@@ -1,11 +1,4 @@
-# 🛡️ Offensive Security Toolkit — Phase 2
 
-> **Course:** 605346 — Information & Network Security Programming  
-> **Instructor:** Dr. Mohammad Arafah  
-> **University of Petra** | Faculty of Information Technology  
-> **Academic Year:** 2025–2026, Semester 2
-
----
 
 ## What is this?
 
